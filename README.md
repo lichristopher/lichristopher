@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **node, react and mongodb**
 
-- 👨‍💻 All of my projects are available at [christopherli.dev](christopherli.dev)
+<!-- - 👨‍💻 All of my projects are available at [christopherli.dev](christopherli.dev) -->
 
 - 📫 How to reach me **li.christopher.jr@gmail.com**
 
-- 📄 Know about my experiences [christopherli.dev](christopherli.dev)
+<!-- - 📄 Know about my experiences [christopherli.dev](christopherli.dev) -->
 
 - ⚡ Fun fact **My favorite basketball team is the LA Lakers**
 
