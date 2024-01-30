@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate web developer with a love for anime, running, and basketball (go Lakers!). I'm all about continuous learning and exploring new technologies.
+I'm Christopher, a passionate web developer with a love for anime, running, and basketball (go Lakers!). I'm all about continuous learning and exploring new technologies.
 
 ## Hobbies 🌟
 
